@@ -1,6 +1,6 @@
 # Plate Generator
 
-Generates license plate images to be used for training object detectors.
+Generates license plate images to be used for training object detectors. I used this to generate license plate images for training YOLOv5 license plate detectors because the license plate data sets I had were insufficient.
 
 Unfortunately I don't think I'm allowed to upload the fonts here, meaning you won't be able to run this right away. But if anyone wants to use this and has any questions, just ask.
 
