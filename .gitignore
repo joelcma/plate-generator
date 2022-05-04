@@ -1,0 +1,7 @@
+__pycache__/
+*.ttf
+corner_generator.py
+persp_transform.py
+plates/
+warped_plates/
+high_plate.jpg

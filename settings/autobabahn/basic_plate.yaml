@@ -1,0 +1,32 @@
+font: /home/roboto/Documents/Dippen/tools/plate_generator/settings/autobabahn/Autobabahn.ttf
+base_img: basic_plate.jpg
+file_prefix: autobabahn_basicplate_
+template: 'AAa-110'
+x_start: 120
+x_end: 1160
+y_start: 80
+y_end: 340
+char_height: 260
+char_space: 25
+box_padding:
+  top: 28
+  bottom: -55
+  left: -12
+  right: -16
+character_specific_padding:
+  'b':
+    left: -16
+    right: -18
+  'e':
+    left: -14
+    right: -14
+  'f':
+    left: -14
+    right: -14
+  'q':
+    bottom: -30
+  'u':
+    right: -18
+  'å':
+    top: 45
+    

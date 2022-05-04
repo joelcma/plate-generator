@@ -1,0 +1,36 @@
+font: /home/roboto/Documents/Dippen/tools/plate_generator/settings/autobabahn/Autobabahn.ttf
+base_img: finn_plate.png
+file_prefix: autobabahn_finnplate_
+template: 'AAAa-1110'
+x_start: 220
+x_end: 1180
+y_start: 40
+y_end: 270
+char_height: 280
+char_space: 25
+characters:
+  - char: 'Garbage'
+    p1: [40,40]
+    p2: [160,290]
+box_padding:
+  top: 30
+  bottom: -58
+  left: -12
+  right: -16
+character_specific_padding:
+  'b':
+    left: -16
+    right: -18
+  'e':
+    left: -14
+    right: -14
+  'f':
+    left: -14
+    right: -14
+  'q':
+    bottom: -30
+  'u':
+    right: -18
+  'å':
+    top: 45
+    

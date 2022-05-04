@@ -1,0 +1,135 @@
+font: /home/roboto/Documents/Dippen/tools/plate_generator/settings/mittelschrift/din1451mittelschrift.ttf
+base_img: finn_plate.png
+file_prefix: mittelschrift_finnplate_
+template: 'AAAa-1110'
+x_start: 220
+x_end: 1180
+y_start: 20
+y_end: 270
+char_height: 280
+char_space: 25
+corners:
+  - corner: 'tl'
+    p1: [18, 22]
+    p2: [38, 42]
+  - corner: 'tr'
+    p1: [1240, 22]
+    p2: [1260, 42]
+  - corner: 'bl'
+    p1: [18, 290]
+    p2: [38, 310]
+  - corner: 'br'
+    p1: [1240, 290]
+    p2: [1260, 310]
+characters:
+  - char: 'Garbage'
+    p1: [40,40]
+    p2: [160,290]
+box_padding:
+  top: -20
+  bottom: -16
+  left: 0
+  right: 0
+character_specific_padding:
+  '-':
+    left: -12
+    right: -13
+  '1':
+    left: -22
+    right: -45
+  '2':
+    top: -18
+    left: -6
+    right: -12
+  '3':
+    top: -18
+    left: -2
+    right: -12
+  '4':
+    left: -2
+    right: -3
+  '5':
+    left: -8
+    right: -9
+  '6':
+    left: -8
+    right: -8
+  '7':
+    left: -11
+    right: -5
+  '8':
+    top: -18
+    left: -4
+    right: -6
+  '9':
+    top: -18
+    left: -10
+    right: -8
+  '0':
+    top: -18
+    left: -6
+    right: -8
+  'b':
+    left: -18
+    right: -8
+  'c':
+    left: -12
+  'd':
+    left: -16
+    right: -12
+  'e':
+    left: -16
+    right: -7
+  'f':
+    left: -18
+  'g':
+    left: -12
+    right: -12
+  'h':
+    left: -18
+    right: -18
+  'i':
+    left: -18
+    right: -18
+  'j':
+    right: -18
+  'k':
+    left: -18
+  'l':
+    left: -20
+    right: -5
+  'm':
+    left: -20
+    right: -20
+  'n':
+    left: -20
+    right: -20
+  'o':
+    left: -12
+    right: -15
+  'p':
+    left: -18
+    right: -4
+  'q':
+    left: -10
+  'r':
+    left: -15
+  's':
+    right: -10
+  'u':
+    left: -12
+    right: -12
+  'y':
+    left: 5
+  'z':
+    left: -8
+    right: -9
+  'å':
+    top: 0
+    left: 0
+    right: -15
+  'ä':
+    top: -18
+  'ö':
+    left: -10
+    right: -10
