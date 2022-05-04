@@ -30,7 +30,7 @@ optional arguments:
   --adjust              Adjust boxes to better match the bounds of the characters
 ```
 
-## Generate a specific place and show it
+## Generate a specific plate and show it
 `python plate_generator.py --plate "åäö-123" --settings /home/roboto/Documents/Dippen/tools/plate_generator/settings/autobabahn/basic_plate.yaml --dataset_folder /home/roboto/Documents/Dippen/data --output gentestlol --warp --debug --show_bbox`
 
 
